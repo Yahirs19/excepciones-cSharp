@@ -1,0 +1,7 @@
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\bin\Debug\ProgramaExcepciones.exe.config
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\bin\Debug\ProgramaExcepciones.exe
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\bin\Debug\ProgramaExcepciones.pdb
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\obj\Debug\ProgramaExcepciones.csproj.AssemblyReference.cache
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\obj\Debug\ProgramaExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\obj\Debug\ProgramaExcepciones.exe
+C:\Users\Yahir\Documents\GitHub\excepciones-cSharp\ProgramaExcepciones\obj\Debug\ProgramaExcepciones.pdb
