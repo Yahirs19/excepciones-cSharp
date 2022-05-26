@@ -13,9 +13,9 @@ namespace ProgramaExcepciones
             try
             {
                 Console.Write("Indique un numero: ");
-                float num1 = float.Parse(Console.ReadLine());
+                int num1 = int.Parse(Console.ReadLine());
                 Console.Write("Indique otro numero: ");
-                float num2 = float.Parse(Console.ReadLine());
+                int num2 = int.Parse(Console.ReadLine());
 
                 Console.WriteLine(num1 / num2);
                 Console.ReadKey();
